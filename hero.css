@@ -7,7 +7,7 @@ body{
 }
 
 header{
-	background-color: #FAF9F6;
+	background: linear-gradient(#F47174, #FFFFFF);
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -25,7 +25,7 @@ header h1{
 header img{
 	border-radius: 180px;
 	width: 300px;
-	border: 12px solid #DB382D;
+	border: 6px solid #202020;
 }
 
 main{
@@ -52,7 +52,7 @@ a:hover{
 }
 
 footer{
-	background-color: #FAF9F6;
+	background: linear-gradient(#FFFFFF, #F47174);
 	font-size: 15px;
 	text-align: center;
 	padding-top: 20px;
